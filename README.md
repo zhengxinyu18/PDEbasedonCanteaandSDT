@@ -1,0 +1,2 @@
+# PDEbasedonCanteaandSDT
+一款基于cantera和SDT构建的小程序，可以快速计算PDE性能
